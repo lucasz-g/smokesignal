@@ -564,3 +564,9 @@ Exemplo de resposta:
 ---
 
 > **Observação**: Para consultar a solução “core” em Data Science que serviu de base, veja o PDF `GS_2 – Data Science` no diretório raiz do projeto.
+
+## 10. Diagrama de Classes
+
+O diagrama abaixo representa a estrutura de entidades e serviços da aplicação SmokeSignal:
+
+[![Visualizar no Miro](./diagrama.png)](https://miro.com/app/board/uXjVIulEnyY=/?share_link_id=969084609614)
