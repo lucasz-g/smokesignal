@@ -13,6 +13,14 @@ A seguir, instruções de uso, justificativas técnicas e a organização geral 
 
 ---
 
+## Demonstração em Vídeo
+
+Confira a demonstração do projeto no arquivo abaixo:
+
+**video-demo.mp4**
+
+Este vídeo apresenta as principais funcionalidades do sistema. 
+
 ## Índice
 
 1. [Pré-requisitos](#pré-requisitos)  
