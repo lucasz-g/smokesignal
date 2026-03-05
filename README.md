@@ -561,14 +561,6 @@ Exemplo de resposta:
 
 ---
 
-### Contato dos Desenvolvedores
-
-* **RM 554070** – Lucas Garcia
-* **RM 554272** – Enzo Barbeli
-* **RM 554259** – Felipe Santana
-
----
-
 > **Observação**: Para consultar a solução “core” em Data Science que serviu de base, veja o PDF `GS_2 – Data Science` no diretório raiz do projeto.
 
 ## 10. Diagrama de Classes
