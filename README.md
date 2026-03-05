@@ -51,7 +51,7 @@ Este vídeo apresenta as principais funcionalidades do sistema.
    ```bash
    git clone https://lucasz-g/smokesignal.git
    cd smokesignal
-````
+``
 
 2. **Verifique se o arquivo CSV de amostra existe em**
    `src/main/resources/amostra_500k.csv`
