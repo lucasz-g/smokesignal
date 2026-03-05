@@ -1,4 +1,3 @@
-````markdown
 # SmokeSignal Spring Application
 
 Este projeto Spring Boot, chamado **SmokeSignal**, tem como objetivo replicar, em uma aplicação Java com arquitetura MVC, a solução “core” de Data Science apresentada no documento PDF “GS_2 – Data Science”. A aplicação expõe endpoints REST para:
